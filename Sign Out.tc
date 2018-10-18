@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Keluar dari account</description>
+   <name>Sign Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cffacede-3d71-446d-83f0-a51387a53ea5</testCaseGuid>
+</TestCaseEntity>

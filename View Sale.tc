@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melihat produk-produk yang sedang SALE melalui icon picture pada dashboard</description>
+   <name>View Sale</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0ac44be-3942-4b71-9d99-990a284a3fa0</testCaseGuid>
+</TestCaseEntity>

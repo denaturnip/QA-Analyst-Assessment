@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuat akun baru</description>
+   <name>Sign In - New</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaebe580-08ea-4bfd-9454-933e1bc048c2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in dengan account yang sudah didaftarkan sebelumnya</description>
+   <name>Sign In - Already</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6fe96f-1757-4294-adc3-f969954987bf</testCaseGuid>
+</TestCaseEntity>

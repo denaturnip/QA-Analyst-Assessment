@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengklik button &quot;Get Savings Now&quot; dan akan dialihkan ke produk-produk yang SALE</description>
+   <name>Get Saving Now</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7492de8e-d507-4a74-a8c5-cc824d7db0dd</testCaseGuid>
+</TestCaseEntity>
